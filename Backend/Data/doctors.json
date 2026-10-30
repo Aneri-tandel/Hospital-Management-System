@@ -1,0 +1,40 @@
+{
+  "doctors": [
+    {
+      "doctorId": 1,
+      "name": "Dr. Asha Mehta",
+      "specialization": "Cardiologist",
+      "experience": 15,
+      "patients": [
+        {
+          "patientId": 101,
+          "name": "Rahul Shah",
+          "age": 45,
+          "disease": "Heart Attack",
+          "admissionStatus": "Indoor",
+          "admittedDate": "2024-10-10",
+          "releasingDate": "2024-10-20",
+          "releasingSummary": "Stable and Discharged"
+        }
+      ]
+    },
+    {
+      "doctorId": 3,
+      "name": "Dr. Amit Patel",
+      "specialization": "Neurologist",
+      "experience": 6,
+      "patients": [
+        {
+          "patientId": 102,
+          "name": "Shaikh",
+          "age": 25,
+          "disease": "Fever",
+          "admissionStatus": "Outdoor",
+          "admittedDate": "",
+          "releasingDate": "",
+          "releasingSummary": ""
+        }
+      ]
+    }
+  ]
+}
